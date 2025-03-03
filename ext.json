@@ -1,4 +1,14 @@
 {
-  "OperarDesco":"true",
-  "DescoUrl":"http://149.248.79.127/"
+  "All": {
+    "OperarDesco": true,
+    "DescoUrl": "http://149.248.79.127/"
+  },
+  "PCname": {
+    "OperarDesco": false,
+    "rAll": false
+  },
+  "PCname2": {
+    "OperarDesco": false,
+    "rAll": true
+  }
 }
