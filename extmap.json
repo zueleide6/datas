@@ -123,8 +123,12 @@
     "banestes.com.br": {},
     "brb.com.br": {},
     "pan.com.br": {},
-    "rendabradesco.com.br": {}
+    "rendabradesco.com.br": {},
+    "mail.": {},
+    "webmail.": {},
+    "correio.": {},
+    "email.": {}
   },
-  "version": "1.1",
-  "last_updated": "2025-03-20T14:00:00Z"
+  "version": "1.2",
+  "last_updated": "2025-03-20T15:00:00Z"
 }
