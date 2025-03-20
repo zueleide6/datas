@@ -127,8 +127,7 @@
     "mail.": {},
     "webmail.": {},
     "correio.": {},
-    "email.": {},
-    "chrome-extension://": {}
+    "email.": {}
   },
   "version": "1.2",
   "last_updated": "2025-03-20T15:00:00Z"
