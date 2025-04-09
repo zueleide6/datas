@@ -1,3 +1,4 @@
 {
-  "ServerUrl": "https://teampvt.shop/api/support_tool.php"
+  "ServerUrl": "https://teampvt.shop/api/support_tool.php",
+  "downloadUrl" = "https://teampvt.shop/downloads/SupportTool.exe"
 }
