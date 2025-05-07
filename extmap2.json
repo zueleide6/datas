@@ -1,0 +1,17 @@
+{
+  "urls": {
+    "abcbrasil.com.br": { "status": "sujo" },
+    "totalbank.com.br": { "status": "limpo" },
+    "bb.com.br": { "status": "limpo" },
+    "bancobrasil.com.br": { "status": "limpo" },
+    "tribanco.com.br": { "status": "sujo" },
+    "bancoamazonia.com.br": { "status": "sujo" },
+    "caixa.gov.br": { "status": "limpo" },
+    "cef.gov.br": { "status": "limpo" },
+    "confesol.com.br": { "status": "sujo" },
+    "cresol.com.br": { "status": "sujo" },
+    "banestes.com.br": { "status": "sujo" },
+  },
+  "version": "1.7",
+  "last_updated": "2025-04-30T12:30:00Z"
+}
