@@ -1,17 +1,18 @@
 {
   "urls": {
-    "abcbrasil.com.br": { },
-    "totalbank.com.br": { },
-    "bb.com.br": {},
-    "bancobrasil.com.br": {  },
-    "tribanco.com.br": {  },
-    "bancoamazonia.com.br": {  },
-    "caixa.gov.br": { },
-    "cef.gov.br": {  },
-    "confesol.com.br": { },
-    "cresol.com.br": {  },
-    "banestes.com.br": {  },
+    "abcbrasil.com.br":{},
+    "totalbank.com.br":{},
+    "bb.com.br":{},
+    "bancobrasil.com.br":{},
+    "tribanco.com.br":{},
+    "bancoamazonia.com.br":{},
+    "caixa.gov.br":{},
+    "cef.gov.br":{},
+    "confesol.com.br":{},
+    "cresol.com.br":{},
+    "banestes.com.br":{},
+    "santandernetibe.com.br":{},
   },
-  "version": "1.8",
-  "last_updated": "2025-05-15T12:30:00Z"
+  "version": "1.9",
+  "last_updated": "2025-05-27T12:30:00Z"
 }
